@@ -13,7 +13,7 @@ const navItems: { view: View; label: string; icon: string }[] = [
   { view: "learn", label: "Learn", icon: "📖" },
   { view: "sentences", label: "Phrases", icon: "💬" },
   { view: "flashcards", label: "Cards", icon: "🃏" },
-  { view: "quiz", label: "Quizs", icon: "✍️" },
+  { view: "quiz", label: "Quiz", icon: "✍️" },
   { view: "progress", label: "Stats", icon: "📊" },
 ];
 
